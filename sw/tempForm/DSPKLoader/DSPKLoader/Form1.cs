@@ -42,6 +42,7 @@ namespace DSPKLoader
         public Form1()
         {
             InitializeComponent();
+            int i = 0;
             //this.progressFrom = new Progress(this.serialPort1);
         }
 

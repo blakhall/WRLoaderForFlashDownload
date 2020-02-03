@@ -29,3 +29,14 @@ D:\huni\project\private\sw\c#\DSPKLoader\DSPKLoader\obj\Debug\DSPKLoader.csproj.
 D:\huni\project\private\sw\c#\DSPKLoader\DSPKLoader\obj\Debug\DSPKLoader.csproj.CoreCompileInputs.cache
 D:\huni\project\private\sw\c#\DSPKLoader\DSPKLoader\obj\Debug\DSPKLoader.exe
 D:\huni\project\private\sw\c#\DSPKLoader\DSPKLoader\obj\Debug\DSPKLoader.pdb
+Z:\project\common\WRLoaderForFlashDownload\sw\tempForm\DSPKLoader\DSPKLoader\bin\Debug\DSPKLoader.exe.config
+Z:\project\common\WRLoaderForFlashDownload\sw\tempForm\DSPKLoader\DSPKLoader\bin\Debug\DSPKLoader.exe
+Z:\project\common\WRLoaderForFlashDownload\sw\tempForm\DSPKLoader\DSPKLoader\bin\Debug\DSPKLoader.pdb
+Z:\project\common\WRLoaderForFlashDownload\sw\tempForm\DSPKLoader\DSPKLoader\obj\Debug\DSPKLoader.csprojAssemblyReference.cache
+Z:\project\common\WRLoaderForFlashDownload\sw\tempForm\DSPKLoader\DSPKLoader\obj\Debug\DSPKLoader.Form1.resources
+Z:\project\common\WRLoaderForFlashDownload\sw\tempForm\DSPKLoader\DSPKLoader\obj\Debug\DSPKLoader.Progress.resources
+Z:\project\common\WRLoaderForFlashDownload\sw\tempForm\DSPKLoader\DSPKLoader\obj\Debug\DSPKLoader.Properties.Resources.resources
+Z:\project\common\WRLoaderForFlashDownload\sw\tempForm\DSPKLoader\DSPKLoader\obj\Debug\DSPKLoader.csproj.GenerateResource.cache
+Z:\project\common\WRLoaderForFlashDownload\sw\tempForm\DSPKLoader\DSPKLoader\obj\Debug\DSPKLoader.csproj.CoreCompileInputs.cache
+Z:\project\common\WRLoaderForFlashDownload\sw\tempForm\DSPKLoader\DSPKLoader\obj\Debug\DSPKLoader.exe
+Z:\project\common\WRLoaderForFlashDownload\sw\tempForm\DSPKLoader\DSPKLoader\obj\Debug\DSPKLoader.pdb
